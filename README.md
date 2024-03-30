@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav Bari
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Bachelor's Of Computer Application
+- 🌱 I’m currently learning Master's Of Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me By email - gauravbari003@gmail.com
 
